@@ -85,3 +85,6 @@ After understanding this program, you will learn:
 How to handle runtime errors
 How to use multiple except blocks
 How to write safe and user-friendly programs
+
+<img width="631" height="805" alt="image" src="https://github.com/user-attachments/assets/2548f0a1-96f2-45e9-b38e-75f7d2025404" />
+
