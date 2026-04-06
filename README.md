@@ -19,6 +19,7 @@ except ZeroDivisionError:
 
 except ValueError:
     print("Invalid input (not a number)")
+    
 🧠 How It Works
 1️⃣ Try Block
 try:
